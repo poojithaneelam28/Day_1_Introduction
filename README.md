@@ -10,4 +10,4 @@ What are the platforms available for writing the python code
 
 In our course we are using microsoft visual studio code
 
-video link:https://bit.ly/3xZEZNM
+video link:https://bit.ly/3vp2TjW
